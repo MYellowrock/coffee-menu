@@ -1,0 +1,27 @@
+.white-color {
+  color: #fff;
+}
+
+.brown-background {
+  background-color: #995512;
+}
+
+.change-text-bg {
+  background-color: #cd7924;
+}
+
+.change-text-bg:hover {
+  color: #fff;
+  background-color: #cc6906;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.hot-image-class {
+  margin: 3rem auto;
+}
